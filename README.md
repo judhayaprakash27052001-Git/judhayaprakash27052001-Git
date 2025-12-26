@@ -19,19 +19,15 @@
 
 ---
 
-<!-- ===================== SUMMARY ===================== -->
-
 ## 👋 Professional Summary
 
-**DevOps & Cloud Engineer** with strong hands-on experience in **AWS, CI/CD pipelines, Docker, Kubernetes, and Infrastructure as Code**.  
-Skilled in designing **scalable, secure, automated cloud solutions** and applying **DevOps & SRE best practices** to improve reliability and delivery efficiency.
+DevOps & Cloud Engineer with strong hands-on experience in **AWS, CI/CD automation, Docker, Kubernetes, and Infrastructure as Code**.  
+Focused on building **scalable, secure, and reliable cloud systems** using DevOps and SRE best practices.
 
 📍 Chennai, India  
-🎯 Target Roles: **DevOps Engineer | Cloud Engineer | SRE**
+🎯 Target Roles: **DevOps Engineer | Cloud Engineer | Site Reliability Engineer**
 
 ---
-
-<!-- ===================== CORE SKILLS ===================== -->
 
 ## 🧠 Core Competencies
 
@@ -39,13 +35,11 @@ Skilled in designing **scalable, secure, automated cloud solutions** and applyin
 - CI/CD Pipeline Design & Automation
 - Infrastructure as Code (Terraform, CloudFormation)
 - Containerization & Orchestration
-- Monitoring, Logging & Reliability
+- Monitoring, Logging & Observability
 - Cloud Security & Cost Optimization
 - Linux & Shell Automation
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Technology Stack
 
@@ -73,45 +67,38 @@ Skilled in designing **scalable, secure, automated cloud solutions** and applyin
 ### 🖥️ OS & Tools
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
 ## 🚀 Key Projects
 
 ### 🔁 CI/CD Pipeline with Jenkins & Docker
-- Designed end-to-end **automated CI/CD pipelines**
-- Containerized applications using **Docker**
-- Deployed workloads on **AWS EC2**
-- Managed image lifecycle using **Amazon ECR**
+- Designed end-to-end automated CI/CD pipelines
+- Containerized applications using Docker
+- Deployed workloads on AWS EC2
+- Managed image lifecycle using Amazon ECR
 
 ### ☁️ Serverless Contact Book (AWS)
-- Built using **Lambda, API Gateway, DynamoDB**
-- Static frontend hosted on **S3 + CloudFront**
-- Secured APIs with **IAM roles & policies**
+- Built using Lambda, API Gateway, DynamoDB
+- Static frontend hosted on S3 + CloudFront
+- Secured APIs with IAM roles & policies
 
 ### 🔐 Secure Financial Web Application
-- Frontend built with **React, HTML, CSS**
-- Focus on **validation, security, and UX**
-- Designed to match real-world financial workflows
+- Frontend built with React, HTML, CSS
+- Focus on validation, security & real-world UX
 
 ---
-
-<!-- ===================== EXPERIENCE ===================== -->
 
 ## 💼 Experience
 
 ### AI Prompt Intern — TMIS IT Solutions
-- Designed and refined prompts for **AI-powered tools**
-- Improved **response accuracy, clarity, and context**
-- Gained exposure to **NLP & human–AI interaction design**
+- Designed and refined prompts for AI-powered systems
+- Improved response accuracy, clarity, and context
+- Gained exposure to NLP and human–AI interaction design
 
 ---
-
-<!-- ===================== EDUCATION ===================== -->
 
 ## 🎓 Education
 
@@ -121,8 +108,6 @@ CGPA: **7.69** | 2024
 
 ---
 
-<!-- ===================== CERTIFICATIONS ===================== -->
-
 ## 🏆 Certifications
 
 - Microsoft Azure Fundamentals (AZ-900)
@@ -130,13 +115,15 @@ CGPA: **7.69** | 2024
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📈 GitHub Activity
+## 📊 GitHub Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdhayaprakashJ&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UdhayaprakashJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=UdhayaprakashJ&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdhayaprakashJ&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -145,7 +132,13 @@ CGPA: **7.69** | 2024
 
 ---
 
-<!-- ===================== CONTACT ===================== -->
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UdhayaprakashJ/UdhayaprakashJ/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 📬 Contact & Links
 
