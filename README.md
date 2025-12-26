@@ -1,21 +1,4 @@
 judhayaprakash27052001@gmail.com
-🧠 BOOT SEQUENCE [00:00] INIT → Kernel loaded [00:01] LOAD → AWS control plane [00:02] LOAD → Docker runtime [00:03] LOAD → Kubernetes [00:04] LOAD → Terraform state [00:05] LOAD → CI/CD pipelines [00:06] READY → Production 📊 LIVE TELEMETRY 🐍 CONTRIBUTIONS 🏆 FINAL STATEMENT 
-
-This is not a résumé.
-This is an operational profile.
-
-I build systems that:
-
-Deploy themselves Heal automatically Scale under pressure 
-
-``` ✅ WHY THIS VERSION WILL WORK (GUARANTEE) SVG is raw HTML → renders Terminal blocks use ```text only No SVG inside <pre> No SVG inside code fences No indentation before <svg> 🧠 FINAL RULE (REMEMBER FOREVER) 
-
-If GitHub shows <svg> text → you are inside a code block.
-
-Fix = remove backticks or <pre> above it.
-
-If you want next:
-
 🔥 SVG glitch distortion 🎯 Recruiter-optimized alternate README ⚡ Ultra-light performance version 
 
 Say NEXT.
