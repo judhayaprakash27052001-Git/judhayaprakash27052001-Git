@@ -1,10 +1,13 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== DEVOPS BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Udhayaprakash%20J&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="assets/banner.gif" alt="DevOps Banner" width="100%" />
 </p>
 
+<h1 align="center">Udhayaprakash J</h1>
+<h3 align="center">DevOps & Cloud Engineer | AWS | CI/CD | IaC | SRE</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+%7C+SRE+Mindset;Build.+Automate.+Scale.+Secure." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Build.+Automate.+Scale.+Secure.;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+%7C+SRE+Mindset" />
 </p>
 
 <p align="center">
@@ -14,8 +17,72 @@
 ---
 
 ## 👋 About Me
-🚀 **DevOps & Cloud Engineer** with strong hands-on experience in **AWS, CI/CD pipelines, Docker, Kubernetes, and Infrastructure as Code**.  
-I design **scalable, automated, secure, production-grade cloud systems** with an SRE mindset.
+🚀 DevOps & Cloud Engineer with strong hands-on experience in **AWS, CI/CD, Docker, Kubernetes, and Infrastructure as Code**.  
+I build **scalable, automated, secure, production-grade cloud systems** with an **SRE mindset**.
+
+- 📍 Chennai, India  
+- ☁️ Cloud-Native & Automation-First  
+- 🔁 GitHub-driven DevOps workflows  
+- 📬 judhayaprakash27052001@gmail.com  
+
+---
+
+## ⚙️ Tech Stack
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,jenkins,githubactions,docker,kubernetes,terraform,ansible&theme=dark" />
+</p>
+
+### 🖥️ OS, Tools & Utilities
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman&theme=dark" />
+</p>
+
+### 📊 Monitoring & Logging
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-Visualization-yellow?style=for-the-badge&logo=grafana"/>
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-Metrics-blue?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/ELK-Logging-black?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 Animated AWS Architecture
+<p align="center">
+  <img src="assets/aws-architecture.gif" alt="AWS Architecture Animation" width="85%" />
+</p>
+
+**Architecture Components**
+- CloudFront + S3 – Global static hosting  
+- API Gateway – REST interface  
+- AWS Lambda – Serverless compute  
+- DynamoDB – NoSQL database  
+- IAM – Secure access control  
+- CloudWatch – Logs & monitoring  
+
+---
+
+## 🔄 CI/CD Pipeline Flow
+<p align="center">
+  <img src="assets/cicd-pipeline.gif" alt="CI/CD Pipeline Animation" width="85%" />
+</p>
+
+```text
+GitHub Commit
+   ↓
+Jenkins / GitHub Actions
+   ↓
+Build (Maven)
+   ↓
+Code Quality (SonarQube)
+   ↓
+Docker Image Build
+   ↓
+Push to Amazon ECR
+   ↓
+Deploy to EC2 / KubernetesI design **scalable, automated, secure, production-grade cloud systems** with an SRE mindset.
 
 - 📍 Chennai, India  
 - 🔁 Automation-first, GitHub-driven workflows  
