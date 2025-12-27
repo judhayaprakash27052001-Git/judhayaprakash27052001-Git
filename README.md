@@ -52,7 +52,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🔥 BATTLE STATISTICS</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=judhayaprakash27052001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4500&icon_color=FF4500&text_color=ffffff&count_private=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=judhayaprakash27052001-Git&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4500&icon_color=FF4500&text_color=ffffff&count_private=true" width="100%" />
       </div>
     </td>
     <td width="50%" valign="top">
