@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  
+  ```yaml
   name: Udhayaprakash J
   currently: DevOps & Cloud Engineer
   location: Chennai, Tamil Nadu
@@ -214,33 +214,3 @@
 </p>
 ```
 
-## 📝 How to Use This README
-
-1. **Save the file** as `README.md` in your GitHub profile repository (named exactly as your username)
-
-2. **Customize these parts**:
-   - Replace `udhayaprakash2705` with your actual GitHub username
-   - Add your real LinkedIn URL
-   - Add your portfolio URL
-   - Update the project links in the Featured Projects section
-
-3. **Features included**:
-   - Animated typing header
-   - Interactive badges with icons for all technologies
-   - GitHub statistics with visual graphs
-   - Color-coded skill sections
-   - Animated contribution graph
-   - Professional layout with dividers
-   - Social media links with icons
-   - Waving footer animation
-
-4. **To enable the statistics**:
-   - The stats will automatically pull data from your GitHub account
-   - Make sure your repositories are public for accurate stats
-
-5. **Additional customizations**:
-   - You can change colors by modifying hex codes (like `#00C7B7`)
-   - Add more projects by following the same badge format
-   - Update the quote at the bottom with your favorite tech quote
-
-The README uses shields.io for badges, GitHub Stats API for statistics, and various animated elements to create a visually appealing profile that showcases your DevOps and Cloud Engineering skills effectively!
