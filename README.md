@@ -20,7 +20,6 @@
 ## 🚀 About Me
 
 <div align="center">
-  
   ```yaml
   name: Udhayaprakash J
   currently: DevOps & Cloud Engineer
@@ -28,8 +27,6 @@
   education: M.Tech in Software Engineering
   university: Vellore Institute of Technology Chennai
   cgpa: 7.69/10
-  ```
-  
 </div>
 
 <p align="center">
@@ -98,20 +95,20 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=udhayaprakash2705&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=judhayaprakash27052001-Git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=udhayaprakash2705&theme=radical&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakNum=00C7B7&sideNums=00C7B7&currStreakLabel=00C7B7&sideLabels=00C7B7&dates=8A8A8A" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=judhayaprakash27052001-Git&theme=radical&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakNum=00C7B7&sideNums=00C7B7&currStreakLabel=00C7B7&sideLabels=00C7B7&dates=8A8A8A" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=udhayaprakash2705&theme=react-dark&bg_color=0D1117&hide_border=true&color=00C7B7&line=00C7B7&point=FFFFFF" alt="GitHub Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=judhayaprakash27052001-Git&theme=react-dark&bg_color=0D1117&hide_border=true&color=00C7B7&line=00C7B7&point=FFFFFF" alt="GitHub Activity Graph" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayaprakash2705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=8B949E" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judhayaprakash27052001-Git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=8B949E" alt="Top Languages" />
 </div>
 
 ---
