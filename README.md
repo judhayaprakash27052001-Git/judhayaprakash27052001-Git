@@ -1,21 +1,4 @@
 
-
-### 🎨 Key Design Changes Made:
-
-1. **Dynamic "Skill Icons":** Replaced the text-heavy badges with **clean, colorful icons** (using `skillicons.dev`). This is much easier to scan and looks more modern.
-2. **DevOps Theme:** Added a "Terminal/Code" aesthetic to the "About Me" section to reflect your role as a Cloud Engineer.
-3. **Better Animations:**
-* Upgraded the Typing SVG header with a better font and color palette.
-* Added the **"GitHub Snake"** placeholder (a very popular animation for developers—I have included instructions at the bottom on how to activate this).
-
-
-4. **Layout:** Organized into a cleaner center-aligned structure.
-
----
-
-### 📋 Copy the Code Below
-
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=33E6CC&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Udhayaprakash+J;Building+Cloud+Infrastructure;Automating+DevOps+Pipelines;AWS+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" />
 </div>
