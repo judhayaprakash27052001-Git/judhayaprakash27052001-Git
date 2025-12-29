@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ==================== ANIMATED HEADER ==================== -->
@@ -137,3 +138,53 @@ Designed, tested, and refined text prompts to train AI-powered tools including v
 ---
 
 ## 🎯 **DevOps Workflow**
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    DevOps Pipeline                       │
+├─────────────────────────────────────────────────────────┤
+│  Code → Build → Test → Package → Deploy → Monitor        │
+│    ↓       ↓       ↓       ↓        ↓        ↓           │
+│   Git    Maven   JUnit   Docker   K8s     Grafana        │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📞 **Let's Connect!**
+
+<div align="center">
+
+<p>
+  <a href="mailto:judhayaprakash27052001@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/udhayaprakash-jayavel-80a20b191">
+    <img src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/judhayaprakash27052001-Git">
+    <img src="https://img.shields.io/badge/🐙_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ **Star My Repositories!**
+
+[![Star History Chart](https://api.star-history.com/svg?repos=judhayaprakash27052001-Git/judhayaprakash27052001-Git&type=Date&theme=dark)](https://star-history.com/#judhayaprakash27052001-Git/judhayaprakash27052001-Git&Date)
+
+**Made with ❤️ by Udhayaprakash J**  
+*"Automation applied to an inefficient operation will magnify the inefficiency." – Bill Gates*
+
+</div>
+```
+
