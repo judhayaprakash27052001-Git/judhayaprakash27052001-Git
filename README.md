@@ -1,90 +1,115 @@
-<div align="center">
+# 👨‍💻 UDHAYAPRAKASH J — DevOps & Cloud Engineer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=UDHAYAPRAKASH%20J&fontSize=75&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=22" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=👨‍💻+Udhayaprakash+J;🚀+DevOps+%26+Cloud+Engineer;☁️+AWS+%7C+🐳+Docker+%7C+☸️+Kubernetes" alt="Typing SVG" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=750&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+%7C+Cloud+Scalability;Turning+Manual+Ops+into+Code" />
-</a>
-
-<p>
-  <a href="https://github.com/judhayaprakash27052001-Git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/udhayaprakash-jayavel-80a20b191"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:judhayaprakash27052001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://judhayaprakash27052001-git.github.io/Personal-Portfolio-Blog/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel" /></a>
+<p align="center">
+  <a href="mailto:judhayaprakash27052001@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/udhayaprakash-jayavel-80a20b191">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/judhayaprakash27052001-Git">
+    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://judhayaprakash27052001-git.github.io/Personal-Portfolio-Blog/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=judhayaprakash27052001-Git&label=Profile%20Views&color=00FF88&style=flat-square" />
+---
 
-</div>
+## 📋 About Me
+Passionate DevOps & Cloud Engineer with hands-on experience designing and automating scalable, secure cloud solutions using AWS, Kubernetes, Docker, and modern DevOps tooling.
+
+- 🔭 Currently: Advanced Kubernetes deployments with EKS  
+- 🌱 Learning: SRE practices & cloud cost optimization  
+- 💬 Ask me about: AWS, Docker, Kubernetes, CI/CD, Terraform  
+- 📫 Email: judhayaprakash27052001@gmail.com
 
 ---
 
-## 🚀 About Me
+## 🛠 Tech Stack
 
-> **DevOps & Cloud Engineer** focused on building **scalable, automated, and secure cloud platforms** using AWS and modern DevOps practices.
+### Cloud & Infra
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-- 🔭 Working on **production-grade CI/CD pipelines & EKS deployments**
-- 🌱 Learning **SRE practices, cost optimization & GitOps**
-- 💬 Strong in **AWS, Docker, Kubernetes, Terraform, Jenkins**
-- 📍 Chennai, India  
-- 📫 **judhayaprakash27052001@gmail.com**
+### Containers & Orchestration
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" />
 
----
+### CI/CD & Automation
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 
-## 🛠 Technical Arsenal
+### Monitoring & Observability
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
 
-<div align="center">
-
-| Category | Tools |
-|------|------|
-| ☁️ Cloud & IaC | AWS · Azure · Terraform · Ansible |
-| 🐳 Containers | Docker · Kubernetes · Amazon EKS |
-| 🔄 CI/CD | Jenkins · GitHub Actions · Maven · Git |
-| 📊 Monitoring | Prometheus · Grafana · CloudWatch |
-| 💻 Scripting | Python · Bash · JavaScript · React |
-
-</div>
+### Languages & Scripting
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|------|------|
-| **CI/CD Automation Pipeline** | Jenkins-based pipeline automating build, test, Docker image creation, and EC2 deployment. Integrated GitHub webhooks and ECR for versioned releases. |
-| **AWS Serverless Contact Book** | Serverless application using Lambda, DynamoDB, API Gateway, S3 & CloudFront with IAM-secured APIs. |
-| **Financial Web Application** | React-based responsive UI for loan processing with validation aligned to real-world financial workflows. |
+| Project | Description | Tech Stack | Link |
+|---|---:|:---:|---|
+| CI/CD Pipeline | Jenkins pipeline for automated build, test and deploy. Containerized apps, ECR integration. | Jenkins, Docker, AWS | https://github.com/judhayaprakash27052001-Git/jenkins-pipeline |
+| Serverless Contact Book | Serverless web app with Lambda, DynamoDB, S3 and secured API gateway. | AWS Lambda, DynamoDB, S3, API Gateway | https://github.com/judhayaprakash27052001-Git/serverless-contact-book |
+| Financial Web App | Loan processing UI built in React with validation and responsive layout. | React, HTML, CSS | https://github.com/judhayaprakash27052001-Git/financial-web-app |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Activity
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/judhayaprakash27052001-Git">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=judhayaprakash27052001-Git&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" alt="GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judhayaprakash27052001-Git&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" alt="Top Languages" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=judhayaprakash27052001-Git&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judhayaprakash27052001-Git&layout=compact&theme=tokyonight&hide_border=true" height="165px" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=judhayaprakash27052001-Git&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=judhayaprakash27052001-Git&theme=tokyonight&hide_border=true" />
-
-<img src="https://github.com/judhayaprakash27052001-Git/judhayaprakash27052001-Git/blob/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **M.Tech – Software Engineering**, VIT Chennai (CGPA: 7.69)
-- 💼 **AI Prompt Intern**, TMIS IT Solutions (Mar 2025)
-- 📜 **Microsoft AZ-900 – Azure Fundamentals**
-- 📜 **Google Cloud SRE – Reliability Engineering**
+<p align="center">
+  <!-- Snake contribution graph from version 2 -->
+  <img src="https://github.com/judhayaprakash27052001-Git/judhayaprakash27052001-Git/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+</p>
 
 ---
 
-<div align="center">
+## 🎓 Education & Experience
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" />
+- Master in Software Engineering — VIT Chennai (2019–2024), CGPA: 7.69  
+- AI Prompt Intern — TMIS IT Solutions (March 2025) — refined prompts and trained AI conversational tasks
 
-<i>“Automation applied to an inefficient operation will magnify the inefficiency.” – Bill Gates</i>
+### Certifications
+- Microsoft Azure Fundamentals (AZ-900)  
+- Google Cloud — Site Reliability Engineering (SRE)
 
-</div>
+---
+
+## 🎯 DevOps Workflow
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    DevOps Pipeline                     │
+├─────────────────────────────────────────────────────────┤
+│  Code → Build → Test → Package → Deploy → Monitor      │
+│    ↓       ↓       ↓       ↓        ↓        ↓         │
+│   Git    Maven   JUnit   Docker    K8s     Grafana      │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📞 Let's Connect!
+- Email: judhayaprakash27052001@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/udhayaprakash-jayavel-80a20b191  
+- GitHub: https://github.com/judhayaprakash27052001-Git  
+- Portfolio: https://judhayaprakash27052001-git.github.io/Personal-Portfolio-Blog/
+
+---
+
+Made with ❤️ by Udhayaprakash J  
+"Automation applied to an inefficient operation will magnify the inefficiency." – Bill Gates
