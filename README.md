@@ -135,15 +135,15 @@ I'm a passionate **DevOps & Cloud Engineer** with expertise in designing, automa
 
 <!-- GitHub Stats with Animated Theme -->
 <a href="https://github.com/Udhayaprakash-J">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udhayaprakash-J&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayaprakash-J&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judhayaprakash27052001-Git&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judhayaprakash27052001-Git&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
 </a>
 
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Udhayaprakash-J&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=judhayaprakash27052001-Git&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://git.io/streak-stats)
 
 <!-- Activity Graph -->
-![Udhayaprakash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Udhayaprakash-J&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)
+![Udhayaprakash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=judhayaprakash27052001-Git&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
