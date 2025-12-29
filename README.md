@@ -342,8 +342,14 @@ Designed, tested, and refined text prompts to train AI-powered tools including v
     text-decoration: none;
   }
 </style>
-``
+```
 
+## 🎨 **Additional Emoji Categories You Can Add:**
+
+If you want even more emojis, here are categories from the Animated Fluent Emojis repository:
+
+```markdown
+<!-- Technology Emojis -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/GIFs/Objects/Desktop%20Computer.gif" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/GIFs/Objects/Keyboard.gif" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/GIFs/Objects/Mobile%20Phone.gif" width="40" height="40"/>
@@ -361,3 +367,24 @@ Designed, tested, and refined text prompts to train AI-powered tools including v
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/GIFs/Objects/Hammer.gif" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/GIFs/Objects/Wrench.gif" width="40" height="40"/>
 ```
+
+## 🚀 **To Add Custom GIFs:**
+
+1. Create a folder named `assets/` in your repository
+2. Add your GIF files (like `profile.gif`, `banner.gif`)
+3. Reference them like:
+```markdown
+![My Banner](assets/banner.gif)
+```
+
+This profile now has **maximum animated emojis** with:
+- **60+ different animated emojis** throughout
+- **Category-based emoji organization** (tech, tools, nature, celebrations)
+- **Emoji-enhanced badges and buttons**
+- **Animated dividers and separators**
+- **Hover effects on images**
+- **Emoji-based project cards**
+- **Animated contact cards**
+- **Random emoji sprinkles throughout**
+
+The profile is now visually stunning and highly engaging with animations everywhere! ✨🎉🚀
