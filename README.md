@@ -877,8 +877,26 @@
   }, observerOptions);
 
   document.querySelectorAll('.slide-in').forEach(el => observer.observe(el));
-</script>
-
+</script>// Add this for confetti explosion on page load
+function createConfetti() {
+    const colors = ['#00ff88', '#00b3ff', '#ff00ff', '#ffaa00'];
+    for(let i = 0; i < 150; i++) {
+        const confetti = document.createElement('div');
+        confetti.style.cssText = `
+            position: fixed;
+            width: 10px;
+            height: 10px;
+            background: ${colors[Math.floor(Math.random() * colors.length)]};
+            border-radius: 50%;
+            top: -10px;
+            left: ${Math.random() * 100}vw;
+            animation: fall ${2 + Math.random() * 3}s linear forwards;
+            z-index: 9999;
+        `;
+        document.body.appendChild(confetti);
+        setTimeout(() => confetti.remove(), 5000);
+    }
+}
 <!-- ==================== EXTERNAL LIBRARIES ==================== -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
